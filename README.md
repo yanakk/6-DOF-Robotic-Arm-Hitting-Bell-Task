@@ -9,6 +9,8 @@ Task4: Keep the end of the robotic arm at the initial position and rotate at a f
 
 Corresponding codes are in the *src* folder.
 
+Images:
+
 <div align="center">
 <img src="https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/bell-hitting.jpg" height="400" width="400" >
 </div>
