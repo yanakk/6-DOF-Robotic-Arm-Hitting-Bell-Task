@@ -7,7 +7,8 @@ Task3: Calculate the inverse kinematics of the robot arm at some given points. U
 Task4: Keep the end of the robotic arm at the initial position and rotate at a fixed point here.
 **Task5: Hitting-Bell Task.** Make the robotic arm move as quickly as possible to avoid obstacles and ring the bells. Within the specified time, the team that rings the bells more has a higher score.
 
-![image](https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/bell-hitting.jpg)
-![image](https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/simulation.png)
-
 Corresponding codes are in the *src* folder.
+
+![image](https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/bell-hitting.jpg 400x400)
+
+![image](https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/simulation.png 584x284)
