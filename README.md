@@ -12,5 +12,5 @@ Corresponding codes are in the *src* folder.
 <div align="center">
 <img src="https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/bell-hitting.jpg" height="400" width="400" >
  
-<img src="https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/simulation.png" height="584" width="284" >
+<img src="https://github.com/yanakk/6-DOF-Robotic-Arm-Hitting-Bell-Task/blob/master/probot_gazebo/img/simulation.png" height="284" width="584" >
  </div>
